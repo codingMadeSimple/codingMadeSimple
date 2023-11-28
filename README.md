@@ -13,7 +13,17 @@ LightHouseLabs Web Development Graduate. Full Stack Web Developer who leans slig
 
 ## Skills
 
-### Languages and Frameworks
+| Languages and Frameworks      | Libraries and API's | Testing |
+| ----------- | ----------- | ----------- |
+| JavaScript | MUI       | Mocha |
+| Rails  | Stripe       | Chai |
+| HTML  | Twilio        | Cypress |
+| CSS  |        | |
+| SCSS  |        | |
+| BootStrap  |        | |
+| Express  |         | |
+
+<!-- ### Languages and Frameworks
 - JavaScript
 - Ruby
 - Rails
@@ -31,7 +41,8 @@ LightHouseLabs Web Development Graduate. Full Stack Web Developer who leans slig
 ### Testing
 - Mocha
 - Chai
-- Cypress
+- Cypress -->
+
 ## Contributions
 
 - [Charcoal & Cabernet](https://github.com/codingMadeSimple/Charcoal-Cabernet)
