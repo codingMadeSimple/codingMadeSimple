@@ -13,16 +13,16 @@ LightHouseLabs Web Development Graduate. Full Stack Web Developer who leans slig
 
 ## Skills
 
-| Languages and Frameworks      | Libraries and API's | Testing |
-| ----------- | ----------- | ----------- |
-| JavaScript | MUI     | Mocha |
-| Ruby       | Stripe  | Chai |
-| HTML       | Twilio  | Cypress |
-| Rails      |         | |
-| CSS        |         | |
-| SCSS       |         | |
-| BootStrap  |         | |
-| Express    |         | |
+| Languages | Frameworks & Libraries | Testing | Systems, CMS and Databases
+| ----------- | ----------- | ----------- | ----------- |
+| JavaScript | Material-UI     | Mocha | Git |
+| Ruby       | Stripe  | Chai | SQL |
+| HTML       | Twilio  | Rspec | PostgreSQL |
+| CSS        | React JS | Cypress | Elephantsql |
+|            | Node JS | | |
+|            | jQuery | | |
+|            | SASS | | |
+|            | AJAX | | |
 
 ## Contributions
 
