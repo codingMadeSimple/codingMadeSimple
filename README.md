@@ -15,33 +15,14 @@ LightHouseLabs Web Development Graduate. Full Stack Web Developer who leans slig
 
 | Languages and Frameworks      | Libraries and API's | Testing |
 | ----------- | ----------- | ----------- |
-| JavaScript | MUI       | Mocha |
-| Rails  | Stripe       | Chai |
-| HTML  | Twilio        | Cypress |
-| CSS  |        | |
-| SCSS  |        | |
-| BootStrap  |        | |
-| Express  |         | |
-
-<!-- ### Languages and Frameworks
-- JavaScript
-- Ruby
-- Rails
-- HTML
-- CSS
-- SCSS
-- Bootstrap
-- Express
-
-### Libraries and API's
-- MUI
-- Stripe
-- Twilio
-
-### Testing
-- Mocha
-- Chai
-- Cypress -->
+| JavaScript | MUI     | Mocha |
+| Ruby       | Stripe  | Chai |
+| HTML       | Twilio  | Cypress |
+| Rails      |         | |
+| CSS        |         | |
+| SCSS       |         | |
+| BootStrap  |         | |
+| Express    |         | |
 
 ## Contributions
 
