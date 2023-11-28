@@ -1,9 +1,9 @@
-# Colin Spangelo
+# <center>Colin Spangelo</center>
 
 
 ## About Me
 
-LightHouseLabs Web Development Graduate. Full Stack Web Developer who leans slightly towards frontend. From Climbing to Coding and everything in-between.
+LightHouseLabs Web Development Graduate. Full Stack Web Developer who leans slightly towards frontend. From Climbing to Coding and everything in-between. I would love to meet and collaborate with others in the industry to grow my knowledge and abilities.
 
 ## Projects
 
@@ -14,15 +14,15 @@ LightHouseLabs Web Development Graduate. Full Stack Web Developer who leans slig
 ## Skills
 
 | Languages | Frameworks & Libraries | Testing | Systems, CMS and Databases
-| ----------- | ----------- | ----------- | ----------- |
-| JavaScript | Material-UI     | Mocha | Git |
-| Ruby       | Stripe  | Chai | SQL |
-| HTML       | Twilio  | Rspec | PostgreSQL |
-| CSS        | React JS | Cypress | Elephantsql |
-|            | Node JS | | |
-|            | jQuery | | |
-|            | SASS | | |
-|            | AJAX | | |
+| ----------- | -----------   | ----------- | ----------- |
+| <center>JavaScript</center> | <center>Material-UI</center>     | <center>Mocha</center> | <center>Git</center> |
+| <center>Ruby</center>       | <center>Stripe</center>  | <center></center>Chai | <center>SQL</center> |
+| <center>HTML</center>       | <center>Twilio</center>  | <center></center>Rspec | <center>PostgreSQL</center>   |
+| <center>CSS </center>       | <center>React JS</center>  | <center></center>Cypress | <center>Elephantsql</center> |
+|            | <center>Node JS</center>  | | |
+|            | <center>jQuery</center> | | |
+|            | <center>SASS</center> | | |
+|            | <center>AJAX</center> | | |
 
 ## Contributions
 
@@ -34,6 +34,7 @@ LightHouseLabs Web Development Graduate. Full Stack Web Developer who leans slig
 - LinkedIn: [linkedin.com/in/colin-spangelo/](https://linkedin.com/in/colin-spangelo)
 
 - [![GitHub Badge](https://img.shields.io/github/followers/codingMadeSimple?label=Follow&style=social)](https://github.com/codingMadeSimple)
+
 <!--
 **codingMadeSimple/codingMadeSimple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
