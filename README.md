@@ -39,7 +39,7 @@ LightHouseLabs Web Development Graduate. Full Stack Web Developer who leans slig
 ## Contact Me
 
 - Email: colin.spangelo@gmail.com
-- LinkedIn: [linkedin.com/in/colin-spangelo/](https://linkedin.com/in/your-username)
+- LinkedIn: [linkedin.com/in/colin-spangelo/](https://linkedin.com/in/colin-spangelo)
 
 - [![GitHub Badge](https://img.shields.io/github/followers/codingMadeSimple?label=Follow&style=social)](https://github.com/codingMadeSimple)
 <!--
