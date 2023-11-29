@@ -20,16 +20,17 @@ LightHouseLabs Web Development Graduate. Full Stack Web Developer who leans slig
 
 ## Projects
 
-- [Charcoal & Cabernet](https://github.com/codingMadeSimple/Charcoal-Cabernet)
+### [Charcoal & Cabernet](https://github.com/codingMadeSimple/Charcoal-Cabernet)
 
 <a href="https://github.com/codingMadeSimple/Charcoal-Cabernet">![Home Page](https://github.com/NeonWaffles222/Charcoal-Cabernet/blob/master/docs/Top%20of%20Homepage.png?raw=true "Home Page")</a>
-- [Jungle](https://github.com/codingMadeSimple/jungle)
-- [Photo Labs](https://github.com/codingMadeSimple/lastPhotoLabs)
 
-| Charcoal and | Frameworks & Libraries | Testing | 
-| ----------- | ----------- | ----------- | 
-|  | Material-UI     | Mocha | 
+### [Jungle](https://github.com/codingMadeSimple/jungle)
 
+<a href="https://github.com/codingMadeSimple/jungle">![Logged in User](https://github.com/codingMadeSimple/jungle/blob/master/docs/UserLoggedIn.png?raw=true "User Logged In")</a>
+
+### [Photo Labs](https://github.com/codingMadeSimple/lastPhotoLabs)
+
+<a href="https://github.com/codingMadeSimple/lastPhotoLabs">!["Once a photo has been favorited there will be an indicator that shows up in the Navigation Bar."](https://github.com/codingMadeSimple/lastPhotoLabs/blob/master/docs/IndicatorForFavorite.png?raw=true)</a>
 
 ## Contributions
 
