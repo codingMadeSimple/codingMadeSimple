@@ -5,12 +5,6 @@
 
 LightHouseLabs Web Development Graduate. Full Stack Web Developer who leans slightly towards frontend. From Climbing to Coding and everything in-between. I would love to meet and collaborate with others in the industry to grow my knowledge and abilities.
 
-## Projects
-
-- [Charcoal & Cabernet](https://github.com/codingMadeSimple/Charcoal-Cabernet)
-- [Jungle](https://github.com/codingMadeSimple/jungle)
-- [Photo Labs](https://github.com/codingMadeSimple/lastPhotoLabs)
-
 ## Skills
 
 | Languages | Frameworks & Libraries | Testing | Systems, CMS and Databases
@@ -23,6 +17,19 @@ LightHouseLabs Web Development Graduate. Full Stack Web Developer who leans slig
 |            | jQuery | | |
 |            | SASS | | |
 |            | AJAX | | |
+
+## Projects
+
+- [Charcoal & Cabernet](https://github.com/codingMadeSimple/Charcoal-Cabernet)
+
+<a href="https://github.com/codingMadeSimple/Charcoal-Cabernet">![Home Page](https://github.com/NeonWaffles222/Charcoal-Cabernet/blob/master/docs/Top%20of%20Homepage.png?raw=true "Home Page")</a>
+- [Jungle](https://github.com/codingMadeSimple/jungle)
+- [Photo Labs](https://github.com/codingMadeSimple/lastPhotoLabs)
+
+| Charcoal and | Frameworks & Libraries | Testing | 
+| ----------- | ----------- | ----------- | 
+|  | Material-UI     | Mocha | 
+
 
 ## Contributions
 
